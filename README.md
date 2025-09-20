@@ -7,7 +7,7 @@ The work was developed as part of the **Robotics course project** at the **Depar
 
 ## 📌 Project Overview
 
-The project is divided into two main parts, both focusing on robotic modeling and control for a **door-opening task using a UR10 manipulator**.  
+The project is divided into two main parts, both focusing on robotic modeling and control for a **door-opening task using a UR10 robotic arm**.  
 The implementation was carried out in **MATLAB** using the **Robotics Toolbox by Peter Corke**.
 
 ---
