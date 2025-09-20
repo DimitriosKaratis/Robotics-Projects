@@ -33,9 +33,9 @@ The implementation was carried out in **MATLAB** using the **Robotics Toolbox by
 - The robot starts from an initial configuration: *q0 = [−1.7752 −1.1823 0.9674 0.2149 1.3664 1.5708] rad*  
 - The end-effector {e} rigidly grasps the door handle {H}, maintaining a constant relative pose throughout the motion.  
 - The control task is to design **joint velocity commands (q̇r)** that:
-- Execute the handle trajectory.  
-- Open the door in **T = 5 seconds** with a sampling period of **ts = 0.01 sec**.  
-- Ensure **smooth joint positions and velocities**.  
+  - Execute the handle trajectory.  
+  - Open the door in **T = 5 seconds** with a sampling period of **ts = 0.01 sec**.  
+  - Ensure **smooth joint positions and velocities**.  
 
 
 **Useful MATLAB functions:**
