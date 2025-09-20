@@ -24,7 +24,8 @@ The implementation was carried out in **MATLAB** using the **Robotics Toolbox by
   - **Homogeneous transformations**  
   - **Unit quaternions** for orientation interpolation  
   - Smooth position and orientation profiles  
-file:///home/karatisd/Pictures/Screenshots/Screenshot%20from%202025-09-20%2017-28-57.png
+file:///home/karatisd/Pictures/Screenshots/partA_img.png
+
 
 ---
 
@@ -37,7 +38,7 @@ file:///home/karatisd/Pictures/Screenshots/Screenshot%20from%202025-09-20%2017-2
   - Execute the handle trajectory.  
   - Open the door in **T = 5 seconds** with a sampling period of **ts = 0.01 sec**.  
   - Ensure **smooth joint positions and velocities**.  
-file:///home/karatisd/Pictures/Screenshots/Screenshot%20from%202025-09-20%2017-29-24.png
+file:///home/karatisd/Pictures/Screenshots/partB_img.png
 
 
 **Useful MATLAB functions:**
