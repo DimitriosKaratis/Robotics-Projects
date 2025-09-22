@@ -3,7 +3,7 @@
 This repository contains the modeling and solution of robotics problems related to **trajectory planning and manipulator control**.  
 The work was developed as part of the **Robotics course project** at the **Department of Electrical and Computer Engineering, Aristotle University of Thessaloniki**.
 
----
+--- 
 
 ## 📌 Project Overview
 
